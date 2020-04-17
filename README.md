@@ -1,5 +1,5 @@
 # About the project    
-> This is a Smart watch app.It keeps track of 2 teams scores and is accessible on your easily on android smartwatch
+> This is a Smart watch app.It keeps track of 2 teams scores and is easily accessible on your android smartwatch
 
 
 ## Screenshots
