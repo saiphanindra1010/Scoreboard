@@ -10,11 +10,6 @@
 ## Compatibilit
 -  Android 24:Android 7.0 and above
 
-## Learning outcomes
-
-- Design gradient background in css code
-- Tokens in java script ,syntax
-- Understanding Minimax Algorithm
 
 ## Tools
 
